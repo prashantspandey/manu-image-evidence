@@ -1,0 +1,36 @@
+Evidence hash manifest
+Generated: 2026-09-19T13:24:37.239632+05:30
+Collected by: curl from live sites and web.archive.org (id_ raw mode)
+
+file                                                            bytes  md5                               sha256
+manujaipur.com/006-5.jpg                                        53491  c9e9b130671831c941e5c29bf4b034a6  2a776ad3e73aa9387da97cdea225948e89f5d362bbcd9959ce9290750e1bae17
+manujaipur.com/007-6.jpg                                        42605  b5b5c7bd7f829e84f1940ba59a4fc953  7973c7848163af959b44bfd0371fc28f8fb0cf0d074b84b9eaa2d2d96408b2ff
+manujaipur.com/008-3.jpg                                        44155  9bf7ff83632822d65d1854a91fd1c774  1a3cded96f6c935064a3ad42f4f66b3049e3f2d902fbed26a7ad5e818b7b74cd
+manujaipur.com/polyamide-page.html                             267536  ea4dd5ef5e88151299695faa78a75ff0  d36a434c6fe484e7ddb32e2a3512ba1d238d423d95cf804c75e5b8537da33c3d
+manujaipur.com/polyamide_cage_003.jpg                           48271  34cb4caa5018bc771a90cd2f017caa99  bde23a424a85ba207ae1b1af60d4b2f8565d83fe443a03e5728e7bcd9412b821
+manujaipur.com/polyamide_cage_004.jpg                           40283  7fba2777149aa5f42d3ae438e706723f  2de109f75bf024dbcb4ed4ec19640a02b8fe07f0bbbf6a4afba1da7caf56e659
+wayback/polyamide_cage_003_2019.jpg                             48271  34cb4caa5018bc771a90cd2f017caa99  bde23a424a85ba207ae1b1af60d4b2f8565d83fe443a03e5728e7bcd9412b821
+wayback/polyamide_cage_004_2019.jpg                             40283  7fba2777149aa5f42d3ae438e706723f  2de109f75bf024dbcb4ed4ec19640a02b8fe07f0bbbf6a4afba1da7caf56e659
+supremalprecision.com/index.html                                10761  10700223ac62fa1dd7eb10be10ade637  b466f3dae96b91e9cb47cba659200091dc8d9bc89a240af6d2c49a35f8ddd905
+supremalprecision.com/product-ball-cage.jpeg                    51926  3fd51a754aa6565633c6bd9871e3258e  fd5d02fdd2e7561a43b1a7f9071983ef015b7fc8ba152befbb37ecd2293db331
+supremalprecision.com/product-cp-sleeve-2.jpeg                  83404  daa59f194903245cc9860e876853f4af  683b0ef628c71fc487ae8b3a7fb2d22c021db4dafb160f8174f11d3a7d26c445
+supremalprecision.com/product-cp-sleeve.jpeg                    81689  932b9bcd40b0adbe4f3658820ff6f9aa  451717b1ae182893bb412c842603b04de225d07e81a3469e07fe3bb30efe8a78
+supremalprecision.com/product-crb-cage-2.jpeg                   40283  7fba2777149aa5f42d3ae438e706723f  2de109f75bf024dbcb4ed4ec19640a02b8fe07f0bbbf6a4afba1da7caf56e659
+supremalprecision.com/product-crb-cage.jpeg                     48271  34cb4caa5018bc771a90cd2f017caa99  bde23a424a85ba207ae1b1af60d4b2f8565d83fe443a03e5728e7bcd9412b821
+supremalprecision.com/product-hub-cage.jpeg                     40423  be392b8cd815dc7abbd2a06fb06ba956  01892b66748cfc603751e9a8dc9a8a66e4d92c4fbc39d61fc94cf808b63023c0
+supremalprecision.com/product-taper-cage.jpeg                   42718  042837b5dc34db6ca7038e15887a28d8  0f9df85655d94386d83f8359be2fef2f6681432491de92002934b8af0d55e7d3
+supremalprecision.com/products.html                              8358  5481fbe5fc2c2f20c60234151d183937  7f4a6f9451e998905e12703c952e6a62932466968f0461a8be6d615fc5ba515a
+
+Source URLs
+  https://supremalprecision.com/assets/img/product-ball-cage.jpeg
+  https://supremalprecision.com/assets/img/product-hub-cage.jpeg
+  https://supremalprecision.com/assets/img/product-taper-cage.jpeg
+  https://supremalprecision.com/assets/img/product-crb-cage.jpeg
+  https://supremalprecision.com/assets/img/product-crb-cage-2.jpeg
+  https://manujaipur.com/wp-content/uploads/2025/03/006-5.jpg   (WordPress media id 1692, uploaded 2025-03-07T17:55:27)
+  https://manujaipur.com/wp-content/uploads/2025/03/007-6.jpg   (WordPress media id 1693, uploaded 2025-03-07T17:55:29)
+  https://manujaipur.com/wp-content/uploads/2025/03/008-3.jpg   (WordPress media id 1694, uploaded 2025-03-07T17:55:31)
+  https://manujaipur.com/wp-content/uploads/2025/03/polyamide_cage_003.jpg   (WordPress media id 3446, uploaded 2025-03-29T12:32:12)
+  https://manujaipur.com/wp-content/uploads/2025/03/polyamide_cage_004.jpg   (WordPress media id 3447, uploaded 2025-03-29T12:33:04)
+  http://web.archive.org/web/20190506083756/http://www.manujaipur.com/images/polyamide_cage_003.jpg
+  http://web.archive.org/web/20190506082911/http://www.manujaipur.com/images/polyamide_cage_004.jpg
